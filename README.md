@@ -1,11 +1,10 @@
 # Flussspiel – wem gehört die Strecke – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-flussspiel-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-flussspiel-demo.streamlit.app/)**
 
 Demo der Linie [Koalitionen und Teilen](https://sebastianhanisch.net/konzepte-koalitionen-teilen.html) im Portfolio von
 [Sebastian Hanisch](https://sebastianhanisch.net) – Operations Research und Machine Learning. Vorgänger in der Linie sind das Zuordnungsspiel (`zuordnungsspiel-demo`, die Dualität eines
-linearen Programms liefert dort den Kern) und der Machtindex (`machtindex-demo`, dort der Veto-Spieler als Machtfall); beide entstehen zugleich mit dieser Demo und haben noch keinen Live-Link.
+linearen Programms liefert dort den Kern) und der Machtindex (`machtindex-demo`, dort der Veto-Spieler als Machtfall); beide stehen live unter [machtindex-demo](https://sebastianhanisch-machtindex-demo.streamlit.app/) und [zuordnungsspiel-demo](https://sebastianhanisch-zuordnungsspiel-demo.streamlit.app/).
 Verwandt sind [shapley-demo](https://sebastianhanisch-shapley-demo.streamlit.app/) und [kern-demo](https://sebastianhanisch-kern-demo.streamlit.app/) (dieselben Begriffe am Tourenspiel) und die Netzfluss-Demos
 [network-flow-demo](https://sebastianhanisch-network-flow-demo.streamlit.app/), [dinic-demo](https://sebastianhanisch-dinic-demo.streamlit.app/) und
 [gomory-hu-demo](https://sebastianhanisch-gomory-hu-demo.streamlit.app/): sie rechnen Flüsse und Schnitte ohne Spieler und ohne Aufteilung; hier gehört jede Kante einem Betrieb, und der Fluss wird aufgeteilt.
